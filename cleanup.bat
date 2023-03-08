@@ -2,7 +2,7 @@
 echo Press space if you want to delete content in workspace folder
 pause
 
-python D:\tool-d\mp42jpg\cleanworkfolder.py
+python cleanworkfolder.py
 
 echo DONE
 pause
